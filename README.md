@@ -27,6 +27,6 @@ Spring MVC를 사용한 근거리 중고 거래 및 기부 상품 경매 웹 페
 |판매자 (seller)| seller | Seller1234! | 
 |구매자 (buyer)| buyer | Buyer1234! |
 |관리자 (admin)| admin | Admin1234! |
-|블랙회원 (black user)| black | black1234! |
+|블랙회원 (black user)| black | lack1234! |
 
 
